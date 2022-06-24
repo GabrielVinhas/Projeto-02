@@ -1,6 +1,6 @@
 # Treine.me (Landing page 02)
 
-<img height="300px" src="https://i.imgur.com/9KVTqOm.jpg">
+<img src="https://i.imgur.com/9KVTqOm.jpg">
 
 Projeto original do Figma: https://www.figma.com/file/kzQK5FjzesuWpepoNZ2yy1/Explorer---Projeto-02-(Copy)
 
